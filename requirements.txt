@@ -1,6 +1,6 @@
 streamlit==1.26.0
 streamlit_option_menu==0.3.6
-sklearn
+scikit-learn
 pandas
 numpy
 matplotlib
