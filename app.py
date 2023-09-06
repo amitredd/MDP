@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+import sklearn
 import pickle
 import streamlit as st
 import streamlit.web.cli as stcli
